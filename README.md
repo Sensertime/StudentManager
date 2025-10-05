@@ -10,7 +10,9 @@
 
 **数据库连接器：mysql-connector-c++-9.4.0-winx64**
 
-需要在https://dev.mysql.com/downloads/connector/cpp/下载mysql-connector-c++,建议下载zip版本
+需要在https://dev.mysql.com/downloads/connector/cpp/
+
+下载mysql-connector-c++,建议下载zip版本
 
 ![1](image/1.png)
 
